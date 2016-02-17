@@ -2,16 +2,17 @@
     <channel>
         <title><![CDATA[nasanta]]></title>
         <description><![CDATA[nasanta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nasanta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 11:25:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 11:38:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nasanta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Welcome to Nasanta Food & Drink Pvt Ltd.]]></title>
-            <description><![CDATA[<article><h1>Welcome to Nasanta Food & Drink Pvt Ltd.</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a4bfbe97731f501ef0a0d543d9ed7f9a27b16c1.png"></article>]]></description>
-            <link>undefinedwelcome-to-nasanta-food-and-drink-pvt-ltd/index.html</link>
+            <title><![CDATA[We invite you to contact us to find out more!]]></title>
+            <description><![CDATA[<article><h1>We invite you to contact us to find out more!</h1><p>Welcome to Nasanta Food & Drink Pvt 
+Ltd. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a4bfbe97731f501ef0a0d543d9ed7f9a27b16c1.png"></article>]]></description>
+            <link>https://thegrid.ai/nasanta/welcome-to-nasanta-food-and-drink-pvt-ltd/index.html</link>
             <guid isPermaLink="false">6420625e-c80e-4b1a-a8cd-785d07ccccae</guid>
-            <pubDate>Wed, 17 Feb 2016 11:24:17 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 11:30:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
